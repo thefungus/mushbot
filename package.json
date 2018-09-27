@@ -14,6 +14,7 @@
     "erlpack": "^0.1.2",
     "fs-extra": "^5.0.0",
     "google-spreadsheet": "^2.0.4",
+    "haikudos": "^1.0.7",
     "image-type": "^3.0.0",
     "mathjs": "^4.2.2",
     "mime-types": "^2.1.18",
